@@ -1,0 +1,13 @@
+Can you provide the delivery status for the package with REFXXX?
+
+I need information on all deliveries made by LivreurX
+
+What is the current stock status for stockX?
+
+Give me a summary of all deliveries in {date}
+
+Could you check if there are any pending deliveries for LivreurX?
+
+What is the price associated with stockX?
+
+What is the avrg price of all commands?

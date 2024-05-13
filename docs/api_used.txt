@@ -1,0 +1,3 @@
+https://www.oilpriceapi.com/
+https://app.exchangerate-api.com/
+https://openrouter.ai/

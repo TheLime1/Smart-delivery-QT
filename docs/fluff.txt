@@ -1,0 +1,16 @@
+compiler : C:\Qt\Qt5.9.9\5.9.9\mingw53_32\bin
+QT version : 5.9.9
+
+commands :
+qmake
+mingw32-make
+
+
+Notes:
+mingw32 is buggy AF , dosnt support WebEngine ,
+mingw32 have errors with perl for xlsx support (to export to excel)
+
+
+arduino idea : add tab for the not delivred commands , each command belong to a stock type
+each stock type have an ideal temperature , when i press monitor , it start the arduino
+
